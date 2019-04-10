@@ -1,4 +1,4 @@
-# The Tribute Page about Zuzana Caputova
+# A Tribute Page about Zuzana Caputova
 This is my first web development project. I built this web page with front-end web development technologies. This project demonstrates the principles of responsive web design.
 
 ## Technologies used
