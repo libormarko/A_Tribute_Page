@@ -1,5 +1,5 @@
 # A Tribute Page about Zuzana Caputova
-This is my first web development project. I built this web page with front-end web development technologies. This project demonstrates the principles of responsive web design. I wrote a blog post about the way I created the project, you can find it on my [medium profile](https://medium.com/@marko.libor/expat-survey-9e1fa22189b6).
+This is my first web development project. I built this web page with front-end web development technologies. This project demonstrates the principles of responsive web design. I wrote a blog post about the way I created the project and the reason I chose the topic, you can find it on my [medium profile](https://medium.com/@marko.libor/my-first-responsive-web-design-project-3aa8496b2b06).
 
 ## What I learned
 * Basic HTML and HTML5
